@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fresher in the GenAI engineering field without any tech background, just my laptop, and I am building some creative things
+Self-driven GenAI engineer building and deploying predictive ML models and LLM-powered applications.
 
 
 ## 🌐 Socials:
