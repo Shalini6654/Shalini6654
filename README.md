@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>:<br><br>👋 Hi, I’m Shalini Baghel<br><br>🚀 GenAI Fresher | AI/ML Enthusiast<br>📚 Actively learning Generative AI, Machine Learning, and AI systems<br>🤖 Interested in building & deploying Chatbots, AI Agents, and Predictive Models<br>🛠️ Hands-on with real projects, APIs, and end-to-end deployment workflows<br>🌱 Focused on growing from fundamentals → production-ready AI solutions<br><br>💡 Currently exploring:<br><br>1. GenAI & LLM-based applications<br>2. AI Agents & automation<br>3. ML models for real-world prediction problems<br><br>📌 Learning in public. Building consistently. Improving daily.
+<br>👋 Hi, I’m Shalini Baghel<br><br>🚀 GenAI Fresher | AI/ML Enthusiast<br>📚 Actively learning Generative AI, Machine Learning, and AI systems<br>🤖 Interested in building & deploying Chatbots, AI Agents, and Predictive Models<br>🛠️ Hands-on with real projects, APIs, and end-to-end deployment workflows<br>🌱 Focused on growing from fundamentals → production-ready AI solutions<br><br>💡 Currently exploring:<br><br>1. GenAI & LLM-based applications<br>2. AI Agents & automation<br>3. ML models for real-world prediction problems<br><br>📌 Learning in public. Building consistently. Improving daily.
 
 
 ## 🌐 Socials:
